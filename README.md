@@ -1,4 +1,4 @@
-# LooknCook(Food Recipe App)
+# LooknCook(Food Recipe App with Login Integration)
 <img src="https://github.com/Prsn617/LooknCook/blob/main/LookCook/images/lac.png" width="450">
 
 Made using HTML, CSS, JS, PHP and MySQL.<br>
